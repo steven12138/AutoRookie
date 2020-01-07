@@ -1,0 +1,5 @@
+# AutoRookie
+
+利用rookie将答案正确性保存在cookie的方法自动做选择题
+最慢速度12秒一题
+出现Bug请反馈
